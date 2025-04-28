@@ -26,7 +26,6 @@ This repository contains the analysis and visualization of the annual sales data
 - Total Profit generated.
 - Dashboard: https://github.com/Nikita-Jatariya/Amazon_Sales_Analysis/blob/main/Amazon%20BI%20Dashboard.png
 
-
 ## Steps Involved
 - Overlook the entire data
 - Data Verification and Cleaning: Missing Value Handling, Anomaly Detection and Resolution, Data Consistency and Standardization.
