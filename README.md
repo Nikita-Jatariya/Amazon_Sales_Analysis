@@ -24,7 +24,7 @@ This repository contains the analysis and visualization of the annual sales data
 - Sum of sales by category.
 - Highest selling category?
 - Total Profit generated.
-- 
+  
 ## Dashboard:
 https://github.com/Nikita-Jatariya/Amazon_Sales_Analysis/blob/main/Amazon%20BI%20Dashboard.png
 ![image](https://github.com/user-attachments/assets/e627a0e7-a08c-4ce3-96ac-775b6384a951)
@@ -36,9 +36,6 @@ https://github.com/Nikita-Jatariya/Amazon_Sales_Analysis/blob/main/Amazon%20BI%2
 - Data laoding in the Power Bi
 - Dashboard Creation: Generated charts, Added cards, Organized all elements into a single dashboard sheet for ease of use.
 - Key Deliverables: Cleaned and verified dataset ready for analysis, Interactive dashboard with dynamic filtering capabilities, Actionable insights to drive sales.
-
-## Dashboard
-![Amazon BI Dashboard](https://github.com/user-attachments/assets/4a1c5aee-4312-47ec-9ffe-67af70b09b70)
  
 ## Key Project Insights
  -Top-Level Metrics: Total Orders: 3,203, Total Sales: $725.46K, Total Profit: $108.4K
