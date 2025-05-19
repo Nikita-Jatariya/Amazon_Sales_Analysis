@@ -24,7 +24,11 @@ This repository contains the analysis and visualization of the annual sales data
 - Sum of sales by category.
 - Highest selling category?
 - Total Profit generated.
-- Dashboard: https://github.com/Nikita-Jatariya/Amazon_Sales_Analysis/blob/main/Amazon%20BI%20Dashboard.png
+- 
+## Dashboard:
+https://github.com/Nikita-Jatariya/Amazon_Sales_Analysis/blob/main/Amazon%20BI%20Dashboard.png
+![image](https://github.com/user-attachments/assets/e627a0e7-a08c-4ce3-96ac-775b6384a951)
+
 
 ## Steps Involved
 - Overlook the entire data
