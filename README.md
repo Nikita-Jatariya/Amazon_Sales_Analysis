@@ -3,7 +3,7 @@
 This repository contains the analysis and visualization of the annual sales data for Amazon. The primary objective of this project is to provide actionable insights into customer behavior, sales trends, and performance metrics to drive strategic decision-making for the upcoming years.
 
 ## Project Objectives
-- Data Cleaning: Perform data cleaning and 
+- Data Cleaning: Perform data cleaning and data preparation.
 - Data Analysis: Perform exploratory data analysis (EDA) on the 2022 sales dataset to identify key trends, patterns, and anomalies.
 - Customer Insights: Analyze customer demographics, purchasing behavior, and preferences to understand the target audience better.
 - Sales Performance: Evaluate sales performance across different categories, regions, and time periods to identify high-performing and underperforming segments.
@@ -53,6 +53,8 @@ This repository contains the analysis and visualization of the annual sales data
 - Set a concrete sales target per quarter and analyze progress toward it.
 - Revisit ad strategies, bundling, upselling, and seasonal offers to push toward your full sales potential.
 -  Explore marketing or shipping strategies to boost sales in underperforming states, Consider targeted ads or promotions in those areas.
+
+
 
 
 
